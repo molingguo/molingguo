@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: molingguo
+  pool: 5
+  # username: molingguo
+  # password: 741852963gg
+
+# test:
+#   adapter: postgresql
+#   encoding: unicode
+#   database: molingguo
+#   pool: 5
+  # username: molingguo
+  # password: 741852963gg
